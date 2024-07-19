@@ -120,6 +120,9 @@ Cancellation % calculating the cancellation percentage.
 
 ![Screenshot (118)](https://github.com/user-attachments/assets/1bc5a502-9f49-49f0-9a23-01c675684820)
 
+![Screenshot (121)](https://github.com/user-attachments/assets/d8f9cbd2-d2b8-4e85-b812-70f90c026415)
+
+
 
 # Key Analysis :-
 1.) Elite rooms have generated highest revenue by 554M with occupancy rate of 57.55%.
